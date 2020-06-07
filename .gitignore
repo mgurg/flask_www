@@ -1,5 +1,6 @@
 .vscode/
 *.pkl
+*.db
 
 
 # Byte-compiled / optimized / DLL files
